@@ -17741,11 +17741,11 @@ video {
 }
 
 .bg-hero {
-  background-image: url('/assets/img/hero-bg.png');
+  background-image: url('../assets/img/hero-bg.png');
 }
 
 .bg-cta {
-  background-image: url('/assets/img/cta-bg.jpg');
+  background-image: url('../assets/img/cta-bg.jpg');
 }
 
 .from-transparent {
@@ -48984,11 +48984,11 @@ video {
   }
 
   .sm\:bg-hero {
-    background-image: url('/assets/img/hero-bg.png');
+    background-image: url('../assets/img/hero-bg.png');
   }
 
   .sm\:bg-cta {
-    background-image: url('/assets/img/cta-bg.jpg');
+    background-image: url('../assets/img/cta-bg.jpg');
   }
 
   .sm\:from-transparent {
@@ -80155,11 +80155,11 @@ video {
   }
 
   .md\:bg-hero {
-    background-image: url('/assets/img/hero-bg.png');
+    background-image: url('../assets/img/hero-bg.png');
   }
 
   .md\:bg-cta {
-    background-image: url('/assets/img/cta-bg.jpg');
+    background-image: url('../assets/img/cta-bg.jpg');
   }
 
   .md\:from-transparent {
@@ -111326,11 +111326,11 @@ video {
   }
 
   .lg\:bg-hero {
-    background-image: url('/assets/img/hero-bg.png');
+    background-image: url('../assets/img/hero-bg.png');
   }
 
   .lg\:bg-cta {
-    background-image: url('/assets/img/cta-bg.jpg');
+    background-image: url('../assets/img/cta-bg.jpg');
   }
 
   .lg\:from-transparent {
@@ -142497,11 +142497,11 @@ video {
   }
 
   .xl\:bg-hero {
-    background-image: url('/assets/img/hero-bg.png');
+    background-image: url('../assets/img/hero-bg.png');
   }
 
   .xl\:bg-cta {
-    background-image: url('/assets/img/cta-bg.jpg');
+    background-image: url('../assets/img/cta-bg.jpg');
   }
 
   .xl\:from-transparent {
@@ -173668,11 +173668,11 @@ video {
   }
 
   .\32xl\:bg-hero {
-    background-image: url('/assets/img/hero-bg.png');
+    background-image: url('../assets/img/hero-bg.png');
   }
 
   .\32xl\:bg-cta {
-    background-image: url('/assets/img/cta-bg.jpg');
+    background-image: url('../assets/img/cta-bg.jpg');
   }
 
   .\32xl\:from-transparent {
